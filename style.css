@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Sora", sans-serif;
+  font-weight: 400;
+}
+.icoder,
+h3,
+h2, h1 {
+  font-weight: 700;
+}
+.blog:hover{
+  opacity:.6;
+  cursor:pointer;
+}
